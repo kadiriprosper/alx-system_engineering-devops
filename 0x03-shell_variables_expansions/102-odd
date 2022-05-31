@@ -1,2 +1,2 @@
 #!/bin/bash
-nl -b a
+paste--| cur -f 1
